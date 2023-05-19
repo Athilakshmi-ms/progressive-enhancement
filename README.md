@@ -1,2 +1,3 @@
 # progressive-enhancement
-The Chinese Farmer
+FIrst exercice
+hello
