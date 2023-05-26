@@ -1,2 +1,2 @@
 # progressive-enhancement
-###The Chinese farmer
+The Chinese farmer
