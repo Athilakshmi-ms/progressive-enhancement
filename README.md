@@ -1,3 +1,2 @@
 # progressive-enhancement
-FIrst exercice
-hello
+###The Chinese farmer
